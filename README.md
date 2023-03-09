@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Stefan and I am currently learning Python as an addition to my
+profession as mechanical engineer and maybe some transition into software development!
+
+
 <!--
 **stefanmartin88/stefanmartin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
