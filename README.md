@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Stefan and I am currently learning Python as an addition to my
-profession as mechanical engineer and maybe some transition into software development!
+profession as mechanical engineer and maybe some day transition into software development!
 
 
 <!--
